@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently styding at **Atrum It Academy**
-- ⚙️ I use daily: `.ruby`, `ruby on rails`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.ruby`, `ruby on rails`,`php`,`laravel` `.js`, `.html`, `.css`, `.svg`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **branding**, **rails**, **development**
 - 📫 Reach me: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
