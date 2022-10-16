@@ -15,6 +15,7 @@
 - 💬 Ping me about **branding**, **rails**, **development**
 - 📫 Reach me: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
 - ⚡️ Fun fact: I'm a huge fan of all Anime <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical) <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" >
