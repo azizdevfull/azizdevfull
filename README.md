@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center">Hi there 👋 </p>
 
 #### <p align="center">I'm a Full-Stack Developer styding Astrum It Academy.</p>
 
