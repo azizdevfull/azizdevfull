@@ -29,12 +29,13 @@
 - 💬 Ping me about **branding**, **rails**, **development**
 - 📫 Reach me: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
 - ⚡️ Fun fact: I'm a huge fan of all Anime
-<h1 align="center">My Github Activity</h1>
-[![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/suhailkakar)
 
 <h1 align="center">My Status</h1>
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" ><br />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" > <br />
+
+<h1 align="center">My Github Activity</h1>
+[![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/suhailkakar)
 
 
