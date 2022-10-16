@@ -33,3 +33,6 @@
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" >
+
+
+[![Azizbek's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/suhailkakar)
