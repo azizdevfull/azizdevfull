@@ -16,6 +16,6 @@
 - 📫 Reach me: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
 - ⚡️ Fun fact: I'm a huge fan of all Anime
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" >
