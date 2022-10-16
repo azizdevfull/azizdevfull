@@ -2,6 +2,16 @@
 
 #### I'm a Full-Stack Developer styding Astrum It Academy.
 
+
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 ##### NOW
 
 - ✨ Crafted last [Basecamp](http://azizcamp.herokuapp.com/) website;
