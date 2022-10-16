@@ -31,9 +31,9 @@
 - ⚡️ Fun fact: I'm a huge fan of all Anime
 
 <h1 align="center">My Status</h1>
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" ><br />
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" > <br />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" >
 
 [![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/suhailkakar)
 
