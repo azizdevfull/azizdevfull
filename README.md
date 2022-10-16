@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer styding Astrum It Academy.
+#### <p align="center">I'm a Full-Stack Developer styding Astrum It Academy.</p>
 
 
 
