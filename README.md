@@ -35,6 +35,6 @@
 
 <img align="left" width="47%" style="height: 156px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact" >
 
-[![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/suhailkakar)
+[![Aziz's github activity graph](https://activity-graph.herokuapp.com/graph?username=azizdevfull&theme=react-dark)](https://github.com/azizdevfull)
 
 
