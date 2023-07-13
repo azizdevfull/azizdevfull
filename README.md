@@ -27,7 +27,7 @@
 
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **branding**, **rails**, **development**
-- 📫 Reach me: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
+- 📫 Reach me telegram: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
 - ⚡️ Fun fact: I'm a huge fan of all Anime
 
 <h1 align="center">My Status</h1>
