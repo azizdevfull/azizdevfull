@@ -14,7 +14,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Afisha Market](https://play.google.com/store/apps/details?id=com.goodafishamarket.afisha_market) website;
+- ✨ Crafted last [Cheeff.uz](https:/cheeff.uz) website;
 - 🍑 What about this?
 
 ##### BIO
