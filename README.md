@@ -21,7 +21,7 @@
 
 - 🏢 I graduated from **Myself**
 - ⚙️ Technologies and tools: <br />  <br />
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,ruby,rails,redis,rabbitmq,docker,nginx,git,github,linux,ubuntu,js,ts,nodejs,vue,html,css,aws,gcp)](https://github.com/azizdevfull)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,ruby,rails,redis,rabbitmq,docker,nginx,git,github,linux,ubuntu,js,nodejs,vue,html,css,aws,gcp)](https://github.com/azizdevfull)
 - ⚙️ Databases: <br />  <br />
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://github.com/azizdevfull)
 
