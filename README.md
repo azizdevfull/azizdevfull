@@ -6,7 +6,10 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
+![](https://komarev.com/ghpvc/?username=azizdevfull)
+
 
 ##### NOW
 
