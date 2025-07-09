@@ -8,7 +8,8 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://api.countapi.xyz/hit/azizdevfull/visits?style=flat-square" alt="Visitor Count" />
+  ![Profile views](https://komarev.com/ghpvc/?username=azizdevfull&color=blue)
+
 </p>
 
 ##### NOW
