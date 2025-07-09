@@ -6,11 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  ![Profile views](https://komarev.com/ghpvc/?username=azizdevfull&color=blue)
-
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ##### NOW
 
