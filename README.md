@@ -8,9 +8,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=azizdevfull)
-
-
 ##### NOW
 
 - ✨ Crafted last [Cheeff.uz](https:/cheeff.uz) website;
