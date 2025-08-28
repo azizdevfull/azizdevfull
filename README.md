@@ -25,7 +25,10 @@
 - 💬 Ping me about **branding**, **rails**, **development**
 - 📫 Reach me telegram: [@isroilov_azizbek](https://t.me/isroilov_azizbek)
 - ⚡️ Fun fact: I'm a huge fan of all Anime
-
+- 🐉 I love dragons – not just because they are strong and free, 
+  but also because they are **legends**.  
+  Just like a dragon, I want my work to live as a story worth remembering. 🔥
+  
 <h1 align="center">My Status</h1>
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=radical" >
 
