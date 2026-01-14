@@ -1,3 +1,9 @@
+<p align="right">
+  🇬🇧 <strong>English</strong> |
+  <a href="./README.uz.md">🇺🇿 O‘zbek</a> |
+  <a href="./README.ru.md">🇷🇺 Русский</a>
+</p>
+
 <h1 align="center">Hi, I'm Azizbek</h1>
 
 <p align="center">
