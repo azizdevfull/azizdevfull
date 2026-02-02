@@ -75,7 +75,7 @@ That’s how I want my software to behave: **Powerful, Ancient, & Reliable.**
 
 <br><br>
 <a href="https://github.com/azizdevfull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizdevfull&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizdevfull&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </a>
 
