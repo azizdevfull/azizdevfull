@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Currently engineering at <b><a href="https://epamarket.uz">epamarket.uz</a></b>
+  Currently engineering at <b><a href="https://epa.uz">epa.uz</a></b>
 </p>
 
 <p align="center">
