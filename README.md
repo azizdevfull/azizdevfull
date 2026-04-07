@@ -69,6 +69,3 @@ That’s how I want my software to behave: **Powerful, Ancient, & Reliable.**
 <a href="https://t.me/isroilov_azizbek">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<!-- <a href="mailto:your_email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a> -->
